@@ -2,6 +2,8 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 
 Additional original source material: http://unicode.org/emoji/charts/full-emoji-list.html
 
+This table is available as a gist at https://gist.github.com/GerHobbelt/b9b87a2257ddd5251a45628d61385717 and as part of the build repo at https://github.com/GerHobbelt/emoji-list/blob/master/dist/emoji-list.md
+
 
 # Table of Contents
 
@@ -14,7 +16,6 @@ Additional original source material: http://unicode.org/emoji/charts/full-emoji-
 - [Symbols](#symbols)
 - [Flags and Countries](#flags-and-countries)
 - [Custom](#custom)
-
 
 
 ## Smileys and People

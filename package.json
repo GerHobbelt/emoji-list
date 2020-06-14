@@ -12,7 +12,8 @@
     "build": "npx grunt",
     "check-api": "npx grunt check-api",
     "compare": "npx grunt compare",
-    "validate": "npx grunt validate"
+    "validate": "npx grunt validate",
+    "test": "npm run build"
   },
   "repository": {
     "type": "git",
