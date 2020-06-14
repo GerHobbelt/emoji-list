@@ -1,22 +1,26 @@
 A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, generated with a Grunt script for maintainability ([see repository](https://github.com/ricealexander/emoji-list)).
 
-
-### Table of Contents
-[Smileys and People](#smileys-and-people)
-<br>[Animals and Nature](#animals-and-nature)
-<br>[Food and Drink](#food-and-drink)
-<br>[Activity](#activity)
-<br>[Travel and Places](#travel-and-places)
-<br>[Objects](#objects)
-<br>[Symbols](#symbols)
-<br>[Flags and Countries](#flags-and-countries)
-<br>[Custom](#custom)
+Additional original source material: http://unicode.org/emoji/charts/full-emoji-list.html
 
 
-### Smileys and People
+# Table of Contents
 
-| | | |
-|---|---|---|
+- [Smileys and People](#smileys-and-people)
+- [Animals and Nature](#animals-and-nature)
+- [Food and Drink](#food-and-drink)
+- [Activity](#activity)
+- [Travel and Places](#travel-and-places)
+- [Objects](#objects)
+- [Symbols](#symbols)
+- [Flags and Countries](#flags-and-countries)
+- [Custom](#custom)
+
+
+
+## Smileys and People
+
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :frowning_face: `:frowning_face:` | :relaxed: `:relaxed:` | :red_haired_man: `:red_haired_man:` |
 | :red_haired_woman: `:red_haired_woman:` | :imp: `:imp:` | :grinning: `:grinning:` |
 | :grin: `:grin:` | :joy: `:joy:` | :smiley: `:smiley:` |
@@ -165,10 +169,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :socks: `:socks:` |  |  |
 
 
-### Animals and Nature
+## Animals and Nature
 
-| | | |
-|---|---|---|
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :rat: `:rat:` | :mouse2: `:mouse2:` | :ox: `:ox:` |
 | :water_buffalo: `:water_buffalo:` | :cow2: `:cow2:` | :tiger2: `:tiger2:` |
 | :leopard: `:leopard:` | :rabbit2: `:rabbit2:` | :cat2: `:cat2:` |
@@ -234,10 +238,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :wilted_flower: `:wilted_flower:` | :ringed_planet: `:ringed_planet:` |  |
 
 
-### Food and Drink
+## Food and Drink
 
-| | | |
-|---|---|---|
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :coffee: `:coffee:` | :hotdog: `:hotdog:` | :taco: `:taco:` |
 | :burrito: `:burrito:` | :hot_pepper: `:hot_pepper:` | :corn: `:corn:` |
 | :tomato: `:tomato:` | :eggplant: `:eggplant:` | :grapes: `:grapes:` |
@@ -278,10 +282,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :butter: `:butter:` | :mate: `:mate:` | :ice_cube: `:ice_cube:` |
 
 
-### Activity
+## Activity
 
-| | | |
-|---|---|---|
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :chess_pawn: `:chess_pawn:` | :soccer: `:soccer:` | :baseball: `:baseball:` |
 | :golf: `:golf:` | :skier: `:skier:` | :ice_skate: `:ice_skate:` |
 | :basketball_man: `:basketball_man:` | :basketball_woman: `:basketball_woman:` | :medal_military: `:medal_military:` |
@@ -319,10 +323,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :shorts: `:shorts:` | :yo_yo: `:yo_yo:` |  |
 
 
-### Travel and Places
+## Travel and Places
 
-| | | |
-|---|---|---|
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :anchor: `:anchor:` | :shinto_shrine: `:shinto_shrine:` | :church: `:church:` |
 | :mountain: `:mountain:` | :parasol_on_ground: `:parasol_on_ground:` | :fountain: `:fountain:` |
 | :ferry: `:ferry:` | :boat: `:boat:` | :sailboat: `:sailboat:` |
@@ -365,10 +369,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :canoe: `:canoe:` | :auto_rickshaw: `:auto_rickshaw:` |  |
 
 
-### Objects
+## Objects
 
-| | | |
-|---|---|---|
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :watch: `:watch:` | :hourglass: `:hourglass:` | :keyboard: `:keyboard:` |
 | :alarm_clock: `:alarm_clock:` | :stopwatch: `:stopwatch:` | :timer_clock: `:timer_clock:` |
 | :hourglass_flowing_sand: `:hourglass_flowing_sand:` | :open_umbrella: `:open_umbrella:` | :phone: `:phone:` |
@@ -461,10 +465,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :banjo: `:banjo:` |  |  |
 
 
-### Symbols
+## Symbols
 
-| | | |
-|---|---|---|
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :hash: `:hash:` | :asterisk: `:asterisk:` | :zero: `:zero:` |
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
@@ -561,10 +565,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :orange_heart: `:orange_heart:` | :nazar_amulet: `:nazar_amulet:` |  |
 
 
-### Flags and Countries
+## Flags and Countries
 
-| | | |
-|---|---|---|
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :crossed_flags: `:crossed_flags:` | :checkered_flag: `:checkered_flag:` | :white_flag: `:white_flag:` |
 | :rainbow_flag: `:rainbow_flag:` | :black_flag: `:black_flag:` | :pirate_flag: `:pirate_flag:` |
 | :triangular_flag_on_post: `:triangular_flag_on_post:` | :ascension_island: `:ascension_island:` | :andorra: `:andorra:` |
@@ -657,10 +661,10 @@ A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github 
 | :england: `:england:` | :scotland: `:scotland:` | :wales: `:wales:` |
 
 
-### Custom
+## Custom
 
-| | | |
-|---|---|---|
+| emoji `markdown` | emoji `markdown` | emoji `markdown` |
+|--- |--- |--- |
 | :atom: `:atom:` | :basecamp: `:basecamp:` | :basecampy: `:basecampy:` |
 | :bowtie: `:bowtie:` | :electron: `:electron:` | :feelsgood: `:feelsgood:` |
 | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` | :godmode: `:godmode:` |
